@@ -1,0 +1,13 @@
+.content {
+  display: flex;
+  flex-flow: column;
+  width: 35em;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+}
+
+.title {
+  text-decoration: underline;
+}
